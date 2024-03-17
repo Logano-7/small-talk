@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src='./src/assets/images/chat-icon.png' alt="Chat Icon" width="200">
+  <img src='./client/src/assets/images/chat-icon.png' alt="Chat Icon" width="200">
   <br>
   SmallTalk
   <br>
@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-<img src='./src/assets/images/AppScreenshot .png' alt="Hangman Loss the word was Round" width="500" >
+<img src='./client/src/assets/images/AppScreenshot .png' alt="Hangman Loss the word was Round" width="500" >
 </div>
 
 ## Key Features
